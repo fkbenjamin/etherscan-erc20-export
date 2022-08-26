@@ -1,0 +1,12 @@
+{
+  "name": "etherscan-extract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fkbenjamin",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.27.2",
+    "csv-writer": "^1.6.0"
+  }
+}
